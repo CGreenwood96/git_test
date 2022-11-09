@@ -1,1 +1,3 @@
 Hello world!
+
+Testing out the git commit through VS Code
